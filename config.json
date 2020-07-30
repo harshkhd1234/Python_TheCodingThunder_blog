@@ -9,13 +9,13 @@
     "gh_url": "https://github.com/codingthunder",
     "blog_name": "Coding Thunder",
     "tag_line": "Heaven for programmers",
-    "gmail-user":"harshkhd1234@gmail.com",
-    "gmail-password":"9797453923",
+    "gmail-user":"user@gmail.com",
+    "gmail-password":"gmailpassword",
     "about_text": "Hi my name is harsh and I create blog and I am a good boy",
     "no_of_posts": 2,
     "login_image":"login.svg",
-    "admin_user":"harsh",
-    "admin_password": "harsh@1234",
+    "admin_user":"admin",
+    "admin_password": "adminpassword",
     "upload_location": "C:\\Users\\Harsh khandelwal\\PycharmProject\\flask\\static\\img"
   }
 }
